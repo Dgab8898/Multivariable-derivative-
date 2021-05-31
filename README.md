@@ -22,7 +22,7 @@ from IPython.display import display,Math
 
 
 ## **Issues**
-NON
+Non
 
 ## **Contributing**
 For major changes, please open an issue. First discuss what you would like to change.
