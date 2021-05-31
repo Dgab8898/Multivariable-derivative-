@@ -2,8 +2,8 @@
 
  In mathematics, a partial derivative of a function of several variables is its derivative with respect to one of those variables, with the others held constant
 
- Partial derivatives appear in any optimisation problem with more than one choice variable. For example, in economic to maximise profit with respect to the choice of the quantities x and y of two different types of output.
-, another field such as quantum mechanics as Schrodinger wave equation, as well as mathematical physics[Wekipedia](https://en.wikipedia.org/wiki/Partial_derivative).
+ Partial derivatives appear in any optimisation problem with more than one choice variable. For example, in economic to maximise profit with respect to the choice of the quantities x and y of two different types of output
+, and in  quantum mechanics as Schrodinger wave equation, as well as mathematical physics[Wekipedia](https://en.wikipedia.org/wiki/Partial_derivative).
 In this project we demonstrate how to find multivariable derivative in respect to one variable at a time.\
 This solution can be applied in profit maximisation, production and consumption.
 
