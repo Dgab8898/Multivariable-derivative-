@@ -1,4 +1,4 @@
-# Multivariables-derivative
+# Partial-derivative
 
  In mathematics, a partial derivative of a function of several variables is its derivative with respect to one of those variables, with the others held constant
 
