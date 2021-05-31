@@ -1,5 +1,5 @@
-# Multivariable-derivative
-Finding the derivation of two variable
+# Multivariables-derivative
+
  In mathematics, a partial derivative of a function of several variables is its derivative with respect to one of those variables, with the others held constant
 
  Partial derivatives appear in any optimisation problem with more than one choice variable. For example, in economic to maximise profit with respect to the choice of the quantities x and y of two different types of output.
